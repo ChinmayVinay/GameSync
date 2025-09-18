@@ -1,0 +1,2 @@
+# GameSync
+Release Notes Summarizer
